@@ -1,5 +1,7 @@
-.one{
-    border-radius: 25%;
-    outline: solid black 1px;
-    text-align: center;
+.deaner {
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	box-shadow: 0 2px 3px #000;
 }
+
