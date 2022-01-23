@@ -29,5 +29,11 @@ main {
 	width: 35%;
 	height: auto;
 	box-shadow: 0 3px 4px #000;
+	transition: 0.5s;
+}
+
+.header--deaner:hover {
+	transition: 0.5s;
+	transform: scale(1.3);
 }
 
